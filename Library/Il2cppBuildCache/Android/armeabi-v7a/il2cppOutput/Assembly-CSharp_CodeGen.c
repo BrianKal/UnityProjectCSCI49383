@@ -1,0 +1,683 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.Void Death::.ctor()
+extern void Death__ctor_mDC0979D381A51CB62F77EE5082E9DBFD6D9E86C1 (void);
+// 0x00000002 System.Void AboutButtonBehavior::Update()
+extern void AboutButtonBehavior_Update_m1E88BAF067B8D47820AE80E46BDC69006EDE9014 (void);
+// 0x00000003 System.Void AboutButtonBehavior::OnPointerEnter()
+extern void AboutButtonBehavior_OnPointerEnter_mA459B268194B5D2BF2258DAB0FC345918ACF5964 (void);
+// 0x00000004 System.Void AboutButtonBehavior::OnPointerExit()
+extern void AboutButtonBehavior_OnPointerExit_m1E3BB60A635463BC8811345BDC3BC1FE6A5A72C3 (void);
+// 0x00000005 System.Void AboutButtonBehavior::.ctor()
+extern void AboutButtonBehavior__ctor_m90DD6B45148EF425523F3F4F679667FD23F8A972 (void);
+// 0x00000006 System.Void AnimationStateController::Start()
+extern void AnimationStateController_Start_m9909F040CA02623E569AE44DD347B3C46FE89850 (void);
+// 0x00000007 System.Void AnimationStateController::Update()
+extern void AnimationStateController_Update_m3B63902680B71A2D3BC220BEACDA18568537F5B3 (void);
+// 0x00000008 System.Void AnimationStateController::OnPointerEnter()
+extern void AnimationStateController_OnPointerEnter_mF3189F4AF73E38ED7F108925029D9F70701E0C6E (void);
+// 0x00000009 System.Void AnimationStateController::OnPointerExit()
+extern void AnimationStateController_OnPointerExit_mBE321E7F2D780FF0318115FC8458BA3CC186C069 (void);
+// 0x0000000A System.Void AnimationStateController::PlaySound()
+extern void AnimationStateController_PlaySound_mF4C4D61FEF534FF4DF38149C3913639D8A40AF93 (void);
+// 0x0000000B System.Void AnimationStateController::StopSound()
+extern void AnimationStateController_StopSound_m9220FCA65750B76F6F61BE6C0C3CE20E2F29E9F1 (void);
+// 0x0000000C System.Void AnimationStateController::ChangeLayer(UnityEngine.Transform,System.Int32)
+extern void AnimationStateController_ChangeLayer_mC89C793DCE24BAD74565D78C17CDF7E0D67184D9 (void);
+// 0x0000000D System.Void AnimationStateController::DeleteDeadEnemy()
+extern void AnimationStateController_DeleteDeadEnemy_mE254F9A7CE2CCACC8A650CF75E2DEDE148896F3D (void);
+// 0x0000000E System.Void AnimationStateController::KillPlayer()
+extern void AnimationStateController_KillPlayer_m95BEF8062AA7704857F03FD72283397A31339D41 (void);
+// 0x0000000F System.Void AnimationStateController::deathScreen()
+extern void AnimationStateController_deathScreen_mE4FD99DA3AC7CF93B39D2910CDC19B5A4A781B0B (void);
+// 0x00000010 System.Void AnimationStateController::.ctor()
+extern void AnimationStateController__ctor_m5EF50D0AE710D0AF90552EB091B22E61CAEE5CB4 (void);
+// 0x00000011 System.Void CardboardStartup::Start()
+extern void CardboardStartup_Start_m3FCB9C6659C076D1D1142C9BDAE65996D09AB1B9 (void);
+// 0x00000012 System.Void CardboardStartup::Update()
+extern void CardboardStartup_Update_m9F3B419AD13A1BB0B8AAC2C46CC1415438B00186 (void);
+// 0x00000013 System.Void CardboardStartup::.ctor()
+extern void CardboardStartup__ctor_mF4E4BB92450A8F689ADF75C738D86EDD87F39202 (void);
+// 0x00000014 System.Void DoneButtonBehavior::Update()
+extern void DoneButtonBehavior_Update_mF8ADF67D992934C521AD435D3341752536E78232 (void);
+// 0x00000015 System.Void DoneButtonBehavior::OnPointerEnter()
+extern void DoneButtonBehavior_OnPointerEnter_m24AEA97E9D2E339ACDB3C82F46C7E0555E5649D9 (void);
+// 0x00000016 System.Void DoneButtonBehavior::OnPointerExit()
+extern void DoneButtonBehavior_OnPointerExit_m127B1699A4C775B7BD3968864CD7911650902BE5 (void);
+// 0x00000017 System.Void DoneButtonBehavior::.ctor()
+extern void DoneButtonBehavior__ctor_m88892F21435EFDC80A18FEB305D7FCA87FAD2590 (void);
+// 0x00000018 System.Void GameManager::Start()
+extern void GameManager_Start_m26461AEF27E44DB8FECCBC19D6C9E228B658BF8E (void);
+// 0x00000019 System.Void GameManager::Update()
+extern void GameManager_Update_mC9303BA7C3117BD861F49F8E36151CC52117E6C1 (void);
+// 0x0000001A System.Void GameManager::.ctor()
+extern void GameManager__ctor_mE8666F6D0CA9C31E16B719F79780DC4B0245B64D (void);
+// 0x0000001B System.Void GraphicsAPITextController::Start()
+extern void GraphicsAPITextController_Start_m442479BE998FD6CF5608590F15AFB025321B1B10 (void);
+// 0x0000001C System.Void GraphicsAPITextController::.ctor()
+extern void GraphicsAPITextController__ctor_mEC9E03A7AB86A1ED2028F16B936852549251EE2A (void);
+// 0x0000001D System.Void MainMenu::Start()
+extern void MainMenu_Start_m3B552CE289B1D7E5343961C8461C484EA61DB621 (void);
+// 0x0000001E System.Void MainMenu::goToMenu()
+extern void MainMenu_goToMenu_m91300E940C9CD7554A733A6F0A39EC0139EB9F31 (void);
+// 0x0000001F System.Void MainMenu::.ctor()
+extern void MainMenu__ctor_m4D77CEC8F91682A2D9492AE815F89B178BF9717D (void);
+// 0x00000020 System.Void ObjectController::Start()
+extern void ObjectController_Start_mA8D89923C9057F3A7BC95D874FA47D34F2C4213B (void);
+// 0x00000021 System.Void ObjectController::TeleportRandomly()
+extern void ObjectController_TeleportRandomly_m0609E15B3460753A6538D1D7A0371DDA30E1B305 (void);
+// 0x00000022 System.Void ObjectController::OnPointerEnter()
+extern void ObjectController_OnPointerEnter_mFA06A1FFFA451B1321791A1AB6A52615AD531773 (void);
+// 0x00000023 System.Void ObjectController::OnPointerExit()
+extern void ObjectController_OnPointerExit_mAFAE51E71479EA14AE801E61082A3010BE90BC6C (void);
+// 0x00000024 System.Void ObjectController::OnPointerClick()
+extern void ObjectController_OnPointerClick_mFD2C131A2887535B624F8203A4F05B7DA6267369 (void);
+// 0x00000025 System.Void ObjectController::SetMaterial(System.Boolean)
+extern void ObjectController_SetMaterial_mF4DF2222B39EC502F91056938CFFAA13AD4DE4C1 (void);
+// 0x00000026 System.Void ObjectController::.ctor()
+extern void ObjectController__ctor_m7F22B01157517689B2328035A4B87C2DAD3478F8 (void);
+// 0x00000027 System.Void ShieldBehavior::OnPointerEnter()
+extern void ShieldBehavior_OnPointerEnter_mF3894FC51FAC1BBF31019FC0686262FCA82CAECF (void);
+// 0x00000028 System.Void ShieldBehavior::Start()
+extern void ShieldBehavior_Start_m4ECA4F2274DBFB7C1F2DD2167A0E42D1A4BCC848 (void);
+// 0x00000029 System.Void ShieldBehavior::Update()
+extern void ShieldBehavior_Update_m8FADE2B41DCCF9A4A67BAE90DE10B1D9015D4841 (void);
+// 0x0000002A System.Void ShieldBehavior::Activate()
+extern void ShieldBehavior_Activate_mA93C64BBAEC300C1F539C29585F90746C5601511 (void);
+// 0x0000002B System.Void ShieldBehavior::Deactivate()
+extern void ShieldBehavior_Deactivate_m9FF772659FF50EC62F5791A100E6B1493C10689D (void);
+// 0x0000002C System.Void ShieldBehavior::UpdateBatteryText()
+extern void ShieldBehavior_UpdateBatteryText_m9D47B6BEB791556F1B70DCA78E1B46F9202D9ED5 (void);
+// 0x0000002D System.Void ShieldBehavior::.ctor()
+extern void ShieldBehavior__ctor_m8B96D418972280C8F4887C4470CB7AF2E56D0BF1 (void);
+// 0x0000002E System.Void ShootGun::Start()
+extern void ShootGun_Start_m27B4CB9430827783EC6B8F365533E08FA7D5BED7 (void);
+// 0x0000002F System.Void ShootGun::Update()
+extern void ShootGun_Update_mACC0C8D53D079B93EB179744450EC8725808E29B (void);
+// 0x00000030 System.Void ShootGun::UpdateShootPoint()
+extern void ShootGun_UpdateShootPoint_mF0C3890B0A865BC2DFAEA3461849476A6711F263 (void);
+// 0x00000031 System.Void ShootGun::Shoot()
+extern void ShootGun_Shoot_m1EF11EB9EDAE5C71673CE40E498E582342F38856 (void);
+// 0x00000032 System.Void ShootGun::.ctor()
+extern void ShootGun__ctor_m93BC5640562F248D0B63865694180EC6F34E0F45 (void);
+// 0x00000033 System.Void SpawnBehavior::Start()
+extern void SpawnBehavior_Start_m227037561FC0410A950638B555E0B20D751964BA (void);
+// 0x00000034 System.Void SpawnBehavior::Update()
+extern void SpawnBehavior_Update_m0A12C9B96F656DD10F60B8F15DEC91A4EE92E031 (void);
+// 0x00000035 System.Void SpawnBehavior::SpawnEnemy()
+extern void SpawnBehavior_SpawnEnemy_m4D73D702EFBC2C25004D1496B8A6963CED4B3AD0 (void);
+// 0x00000036 System.Void SpawnBehavior::GenerateSpawnTime()
+extern void SpawnBehavior_GenerateSpawnTime_mA791926D2A2C22F56B8A60615B60FD0323D90766 (void);
+// 0x00000037 System.Void SpawnBehavior::WinScreen()
+extern void SpawnBehavior_WinScreen_m3D9367CCCF780FC5AC8F260991C9D3C02E7F984F (void);
+// 0x00000038 System.Void SpawnBehavior::.ctor()
+extern void SpawnBehavior__ctor_mB83E156AA2E75F92F485FB61E848762BA470E2EA (void);
+// 0x00000039 System.Void StartButtonBehavior::Update()
+extern void StartButtonBehavior_Update_m8677BD9B2EA81ADA7DBDFDAA8E8AF32683936406 (void);
+// 0x0000003A System.Void StartButtonBehavior::OnPointerEnter()
+extern void StartButtonBehavior_OnPointerEnter_mD3A921B50E0109606368728536135ADC76197DD8 (void);
+// 0x0000003B System.Void StartButtonBehavior::OnPointerExit()
+extern void StartButtonBehavior_OnPointerExit_m33589AC25B7089BB33B5799DE24324D3AE5766DF (void);
+// 0x0000003C System.Void StartButtonBehavior::.ctor()
+extern void StartButtonBehavior__ctor_m57C359978EA2E4D33F050EAC85F23AAC7F7AF348 (void);
+// 0x0000003D System.Boolean VrModeController::get__isScreenTouched()
+extern void VrModeController_get__isScreenTouched_m72936928FB8C5DF4268F76BF164F02D2B10F5646 (void);
+// 0x0000003E System.Boolean VrModeController::get__isVrModeEnabled()
+extern void VrModeController_get__isVrModeEnabled_mF66A05F1018FEDB94A7010E2E3F714B4C91F5F96 (void);
+// 0x0000003F System.Void VrModeController::Start()
+extern void VrModeController_Start_mE853D09E112F95B6725D81945FBF80BAC5E80F59 (void);
+// 0x00000040 System.Void VrModeController::Update()
+extern void VrModeController_Update_mEECA330B7CB845AFD609A6367AF8FB6A150FD210 (void);
+// 0x00000041 System.Void VrModeController::EnterVR()
+extern void VrModeController_EnterVR_m6F15FBEF8EC065C24764BA6CD70573822018013F (void);
+// 0x00000042 System.Void VrModeController::ExitVR()
+extern void VrModeController_ExitVR_m3559F6F2FBAE5D19998A9B51D0B22A765D451BFA (void);
+// 0x00000043 System.Collections.IEnumerator VrModeController::StartXR()
+extern void VrModeController_StartXR_m3E9FF326A5B4CB0E1EB19F1321EE5C4B3F90C9BC (void);
+// 0x00000044 System.Void VrModeController::StopXR()
+extern void VrModeController_StopXR_m9464911C38618B50214F493450600A39E7EFA11F (void);
+// 0x00000045 System.Void VrModeController::.ctor()
+extern void VrModeController__ctor_mA3E66288FFE87992A48CB7FA23AE0531311DFEA8 (void);
+// 0x00000046 System.Void VrModeController/<StartXR>d__10::.ctor(System.Int32)
+extern void U3CStartXRU3Ed__10__ctor_mF343AAB11ACC5EB4DC599EE2CB804CE31A56B9D9 (void);
+// 0x00000047 System.Void VrModeController/<StartXR>d__10::System.IDisposable.Dispose()
+extern void U3CStartXRU3Ed__10_System_IDisposable_Dispose_m3564EBC2B3A1FFF341D8064161C5E0609BD6A06F (void);
+// 0x00000048 System.Boolean VrModeController/<StartXR>d__10::MoveNext()
+extern void U3CStartXRU3Ed__10_MoveNext_m83FA5ABF40268E8BBFAC61A360F97F648EC841D0 (void);
+// 0x00000049 System.Object VrModeController/<StartXR>d__10::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CStartXRU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m42D60279BF2FBE6A7B98DB1CAC2055C01BD24B58 (void);
+// 0x0000004A System.Void VrModeController/<StartXR>d__10::System.Collections.IEnumerator.Reset()
+extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_Reset_mB9FC26327447A2E4DA95BCADE6C7C48B25994317 (void);
+// 0x0000004B System.Object VrModeController/<StartXR>d__10::System.Collections.IEnumerator.get_Current()
+extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mF8108A377FD1D678FB408319943C30A6AECBE607 (void);
+// 0x0000004C System.Void CannonBehavior::Start()
+extern void CannonBehavior_Start_m2204E9E3EB4D77B349EBD2A0AE04470853AFC11B (void);
+// 0x0000004D System.Void CannonBehavior::Update()
+extern void CannonBehavior_Update_m80AB4F83E1AA4DD307BA0300BE9B85695579C084 (void);
+// 0x0000004E System.Void CannonBehavior::OnGUI()
+extern void CannonBehavior_OnGUI_m48A3246C4FB76BF44BD0AD4E793A1157996185E5 (void);
+// 0x0000004F System.Void CannonBehavior::.ctor()
+extern void CannonBehavior__ctor_m0B74DD0A2B89CEEC6A46A305F98B7F45343A8DEF (void);
+// 0x00000050 System.Void CreateSinShapedLineStrip::Start()
+extern void CreateSinShapedLineStrip_Start_mDCF09509CA42700C9992C8CEF68B02D07D6A9C3B (void);
+// 0x00000051 System.Void CreateSinShapedLineStrip::OnDrawGizmos()
+extern void CreateSinShapedLineStrip_OnDrawGizmos_m39FC926449229B9332645208978AF684EB3147FB (void);
+// 0x00000052 System.Void CreateSinShapedLineStrip::.ctor()
+extern void CreateSinShapedLineStrip__ctor_m0F174028C18272CB842357722900EB594F45F48E (void);
+// 0x00000053 System.Void ShotBehavior::Start()
+extern void ShotBehavior_Start_mA5A3636DD79DF250F211A7CF2E2E18EEB8F10800 (void);
+// 0x00000054 System.Void ShotBehavior::Update()
+extern void ShotBehavior_Update_m006A105858FFF036081AB1C18036CAA25C7DB9EB (void);
+// 0x00000055 System.Void ShotBehavior::.ctor()
+extern void ShotBehavior__ctor_m0D1B8815E738E39BF9EAAA1E663EA66EC1D530E6 (void);
+// 0x00000056 UnityEngine.Material VolumetricLines.VolumetricMultiLineBehavior::get_TemplateMaterial()
+extern void VolumetricMultiLineBehavior_get_TemplateMaterial_mCE2E9706781E43D807FA3EA51F26D4ABDC355EDF (void);
+// 0x00000057 System.Void VolumetricLines.VolumetricMultiLineBehavior::set_TemplateMaterial(UnityEngine.Material)
+extern void VolumetricMultiLineBehavior_set_TemplateMaterial_mF34789D78002CF5328992CF7012D423C837E2547 (void);
+// 0x00000058 System.Boolean VolumetricLines.VolumetricMultiLineBehavior::get_DoNotOverwriteTemplateMaterialProperties()
+extern void VolumetricMultiLineBehavior_get_DoNotOverwriteTemplateMaterialProperties_m40C652E029509C4240923BBFEC62670CDB4F5A24 (void);
+// 0x00000059 System.Void VolumetricLines.VolumetricMultiLineBehavior::set_DoNotOverwriteTemplateMaterialProperties(System.Boolean)
+extern void VolumetricMultiLineBehavior_set_DoNotOverwriteTemplateMaterialProperties_m20B0292FB15B39DCC1977E76FA087019B02DD8E7 (void);
+// 0x0000005A UnityEngine.Color VolumetricLines.VolumetricMultiLineBehavior::get_LineColor()
+extern void VolumetricMultiLineBehavior_get_LineColor_m41CAD291507D48955F8099DC6D5BF7CBD30B84BB (void);
+// 0x0000005B System.Void VolumetricLines.VolumetricMultiLineBehavior::set_LineColor(UnityEngine.Color)
+extern void VolumetricMultiLineBehavior_set_LineColor_m79ED8CD513F3B78D100DC966B4ACEBA4904E5BDE (void);
+// 0x0000005C System.Single VolumetricLines.VolumetricMultiLineBehavior::get_LineWidth()
+extern void VolumetricMultiLineBehavior_get_LineWidth_m50404E7D75270144E5BDC69327477A2F89FDB8BB (void);
+// 0x0000005D System.Void VolumetricLines.VolumetricMultiLineBehavior::set_LineWidth(System.Single)
+extern void VolumetricMultiLineBehavior_set_LineWidth_m2595C344A0A1879E612635946C713DE698144119 (void);
+// 0x0000005E System.Single VolumetricLines.VolumetricMultiLineBehavior::get_LightSaberFactor()
+extern void VolumetricMultiLineBehavior_get_LightSaberFactor_m06D68C8C738ABF6891F07598D85347F5CF97C68D (void);
+// 0x0000005F System.Void VolumetricLines.VolumetricMultiLineBehavior::set_LightSaberFactor(System.Single)
+extern void VolumetricMultiLineBehavior_set_LightSaberFactor_m09E568A488DBA4F4EA5FE733DF02148C75EBD8AD (void);
+// 0x00000060 System.Void VolumetricLines.VolumetricMultiLineBehavior::CreateAllVolumetricLines()
+extern void VolumetricMultiLineBehavior_CreateAllVolumetricLines_mC00AC7206090A65FAB5D85349A5E2141F122E807 (void);
+// 0x00000061 System.Void VolumetricLines.VolumetricMultiLineBehavior::DestroyAllVolumetricLines()
+extern void VolumetricMultiLineBehavior_DestroyAllVolumetricLines_mE41279659BF4E4B61CE8541324B3CBB0E0FA7FBF (void);
+// 0x00000062 System.Void VolumetricLines.VolumetricMultiLineBehavior::UpdateLineVertices(UnityEngine.Vector3[])
+extern void VolumetricMultiLineBehavior_UpdateLineVertices_m622B6E2EA677A9D69620FF4F0448277BD6080285 (void);
+// 0x00000063 System.Void VolumetricLines.VolumetricMultiLineBehavior::SetAllMaterialProperties()
+extern void VolumetricMultiLineBehavior_SetAllMaterialProperties_m879EA386ECAA82EF8358B2365893BF930F34755B (void);
+// 0x00000064 System.Void VolumetricLines.VolumetricMultiLineBehavior::Start()
+extern void VolumetricMultiLineBehavior_Start_mBCC7EEB71AFE56EE2772C4A76D0AC53D348B8E88 (void);
+// 0x00000065 System.Void VolumetricLines.VolumetricMultiLineBehavior::OnDestroy()
+extern void VolumetricMultiLineBehavior_OnDestroy_m103668585FF3D8D8F3C9C4787564E65182E9621D (void);
+// 0x00000066 System.Void VolumetricLines.VolumetricMultiLineBehavior::OnValidate()
+extern void VolumetricMultiLineBehavior_OnValidate_m25F652CDDE5E82CB8BBC47047EF8DB901BC73ADD (void);
+// 0x00000067 System.Void VolumetricLines.VolumetricMultiLineBehavior::OnDrawGizmos()
+extern void VolumetricMultiLineBehavior_OnDrawGizmos_m1DDACBFF372B5665133DF2D722BBFD8A47FA17DC (void);
+// 0x00000068 System.Void VolumetricLines.VolumetricMultiLineBehavior::.ctor()
+extern void VolumetricMultiLineBehavior__ctor_m3574C5302CE3BC04322BA398C4BE37007481CF65 (void);
+// 0x00000069 UnityEngine.Material VolumetricLines.VolumetricLineBehavior::get_TemplateMaterial()
+extern void VolumetricLineBehavior_get_TemplateMaterial_m485D1AFA19EA8987D7F8A4F65EB37AEE10375660 (void);
+// 0x0000006A System.Void VolumetricLines.VolumetricLineBehavior::set_TemplateMaterial(UnityEngine.Material)
+extern void VolumetricLineBehavior_set_TemplateMaterial_m48D09A853D9928B29754FF55E6E9D3AEC9E40C80 (void);
+// 0x0000006B System.Boolean VolumetricLines.VolumetricLineBehavior::get_DoNotOverwriteTemplateMaterialProperties()
+extern void VolumetricLineBehavior_get_DoNotOverwriteTemplateMaterialProperties_m2989072FABC7BED69AE8B3AEFBBD7AC34DFD13E2 (void);
+// 0x0000006C System.Void VolumetricLines.VolumetricLineBehavior::set_DoNotOverwriteTemplateMaterialProperties(System.Boolean)
+extern void VolumetricLineBehavior_set_DoNotOverwriteTemplateMaterialProperties_m52108A43A4F2E8B2ADCAF40F8207B66D5BFCB210 (void);
+// 0x0000006D UnityEngine.Color VolumetricLines.VolumetricLineBehavior::get_LineColor()
+extern void VolumetricLineBehavior_get_LineColor_mD4DF0B39783B8D33E684FA28A71F57AEF02D231B (void);
+// 0x0000006E System.Void VolumetricLines.VolumetricLineBehavior::set_LineColor(UnityEngine.Color)
+extern void VolumetricLineBehavior_set_LineColor_m8C43E236650A68DB06BA617732C488F32E77350B (void);
+// 0x0000006F System.Single VolumetricLines.VolumetricLineBehavior::get_LineWidth()
+extern void VolumetricLineBehavior_get_LineWidth_m65792B908D2F692C33D5190817F681625CF875F5 (void);
+// 0x00000070 System.Void VolumetricLines.VolumetricLineBehavior::set_LineWidth(System.Single)
+extern void VolumetricLineBehavior_set_LineWidth_m3596F7A333CB638A0DB7B22D340F64AAF6709E4B (void);
+// 0x00000071 System.Single VolumetricLines.VolumetricLineBehavior::get_LightSaberFactor()
+extern void VolumetricLineBehavior_get_LightSaberFactor_m54D23DA211B31D7FCCBF63346C4C1D7BED41670E (void);
+// 0x00000072 System.Void VolumetricLines.VolumetricLineBehavior::set_LightSaberFactor(System.Single)
+extern void VolumetricLineBehavior_set_LightSaberFactor_m647CDC0C3F205E37719A441BCE7B0797FA6D5E80 (void);
+// 0x00000073 UnityEngine.Vector3 VolumetricLines.VolumetricLineBehavior::get_StartPos()
+extern void VolumetricLineBehavior_get_StartPos_m1E8915A7B88C0F177EEF18BACEBCB54C20A1F328 (void);
+// 0x00000074 System.Void VolumetricLines.VolumetricLineBehavior::set_StartPos(UnityEngine.Vector3)
+extern void VolumetricLineBehavior_set_StartPos_mA94E3149BE9AB33DFC9654EC81300DFBD9F6F814 (void);
+// 0x00000075 UnityEngine.Vector3 VolumetricLines.VolumetricLineBehavior::get_EndPos()
+extern void VolumetricLineBehavior_get_EndPos_m0E5E6C8A3178D15ECD86A0056A4F827A567D2B0E (void);
+// 0x00000076 System.Void VolumetricLines.VolumetricLineBehavior::set_EndPos(UnityEngine.Vector3)
+extern void VolumetricLineBehavior_set_EndPos_mF4E603044B604303AA236D51A25F4A03EC6C76C4 (void);
+// 0x00000077 System.Void VolumetricLines.VolumetricLineBehavior::CreateMaterial()
+extern void VolumetricLineBehavior_CreateMaterial_m3740559FFD248C89D732092D9501201FC6AC5D51 (void);
+// 0x00000078 System.Void VolumetricLines.VolumetricLineBehavior::DestroyMaterial()
+extern void VolumetricLineBehavior_DestroyMaterial_m10AB9E38C9A88125D3A7FFFF28C54E676B7BB231 (void);
+// 0x00000079 System.Single VolumetricLines.VolumetricLineBehavior::CalculateLineScale()
+extern void VolumetricLineBehavior_CalculateLineScale_m8584665B9104DD3E9342876BC5F770B799680255 (void);
+// 0x0000007A System.Void VolumetricLines.VolumetricLineBehavior::UpdateLineScale()
+extern void VolumetricLineBehavior_UpdateLineScale_mF448795BC508FE125B6F100CF32928D9CD644BD4 (void);
+// 0x0000007B System.Void VolumetricLines.VolumetricLineBehavior::SetAllMaterialProperties()
+extern void VolumetricLineBehavior_SetAllMaterialProperties_mF14C3A362B67F0B9B6FE665F050235664AF4DA4A (void);
+// 0x0000007C UnityEngine.Bounds VolumetricLines.VolumetricLineBehavior::CalculateBounds()
+extern void VolumetricLineBehavior_CalculateBounds_m2FE8179663ADF0DA443801CF8A83934A0C2757FF (void);
+// 0x0000007D System.Void VolumetricLines.VolumetricLineBehavior::UpdateBounds()
+extern void VolumetricLineBehavior_UpdateBounds_m1230CBA9F88056122639F9D693A13BA471C71B2A (void);
+// 0x0000007E System.Void VolumetricLines.VolumetricLineBehavior::SetStartAndEndPoints(UnityEngine.Vector3,UnityEngine.Vector3)
+extern void VolumetricLineBehavior_SetStartAndEndPoints_mEF6385054F96D0605BEC540FDC88BC04B8B7FA9C (void);
+// 0x0000007F System.Void VolumetricLines.VolumetricLineBehavior::Start()
+extern void VolumetricLineBehavior_Start_m795477C8AF6BD075BA5A448E653E8EF8528A7692 (void);
+// 0x00000080 System.Void VolumetricLines.VolumetricLineBehavior::OnDestroy()
+extern void VolumetricLineBehavior_OnDestroy_mC41D4393D9BE15453E5A17FFA123473CF675DFC0 (void);
+// 0x00000081 System.Void VolumetricLines.VolumetricLineBehavior::Update()
+extern void VolumetricLineBehavior_Update_mA585CE476BE9ABC5684832720F856D7E5D3D1E55 (void);
+// 0x00000082 System.Void VolumetricLines.VolumetricLineBehavior::OnValidate()
+extern void VolumetricLineBehavior_OnValidate_m3BD4CF87C7031438BBCC2EA7BD0A28B735533269 (void);
+// 0x00000083 System.Void VolumetricLines.VolumetricLineBehavior::OnDrawGizmos()
+extern void VolumetricLineBehavior_OnDrawGizmos_mCE4D67ABF21CE2FADF69C89EA84A0AA6731BE4A5 (void);
+// 0x00000084 System.Void VolumetricLines.VolumetricLineBehavior::.ctor()
+extern void VolumetricLineBehavior__ctor_m8682F91D32F5FFD72426B21C2008C786401CF033 (void);
+// 0x00000085 System.Void VolumetricLines.VolumetricLineBehavior::.cctor()
+extern void VolumetricLineBehavior__cctor_mE3894EC72E783D45D8D37263D08E448BD9BA3D43 (void);
+// 0x00000086 UnityEngine.Material VolumetricLines.VolumetricLineStripBehavior::get_TemplateMaterial()
+extern void VolumetricLineStripBehavior_get_TemplateMaterial_mDABF0501B8012D70E4DC3AD940CED20B09FD98FA (void);
+// 0x00000087 System.Void VolumetricLines.VolumetricLineStripBehavior::set_TemplateMaterial(UnityEngine.Material)
+extern void VolumetricLineStripBehavior_set_TemplateMaterial_m81728C6D3A7E9EB58C0ED140DE23910E99851583 (void);
+// 0x00000088 System.Boolean VolumetricLines.VolumetricLineStripBehavior::get_DoNotOverwriteTemplateMaterialProperties()
+extern void VolumetricLineStripBehavior_get_DoNotOverwriteTemplateMaterialProperties_mB1D4D69804B88C4599B5F563629310B274D6A381 (void);
+// 0x00000089 System.Void VolumetricLines.VolumetricLineStripBehavior::set_DoNotOverwriteTemplateMaterialProperties(System.Boolean)
+extern void VolumetricLineStripBehavior_set_DoNotOverwriteTemplateMaterialProperties_mF5D7D015E27AD055A414271028282E68F14A0F10 (void);
+// 0x0000008A UnityEngine.Color VolumetricLines.VolumetricLineStripBehavior::get_LineColor()
+extern void VolumetricLineStripBehavior_get_LineColor_m90B087B66F2E6FCEA93F2CB83C98CE14696102BA (void);
+// 0x0000008B System.Void VolumetricLines.VolumetricLineStripBehavior::set_LineColor(UnityEngine.Color)
+extern void VolumetricLineStripBehavior_set_LineColor_m7DEB94E1554A56247A57A6A4F3D288F2A216A1FA (void);
+// 0x0000008C System.Single VolumetricLines.VolumetricLineStripBehavior::get_LineWidth()
+extern void VolumetricLineStripBehavior_get_LineWidth_mDE45AB61E632E0981067B4CE8A6030C077C1B295 (void);
+// 0x0000008D System.Void VolumetricLines.VolumetricLineStripBehavior::set_LineWidth(System.Single)
+extern void VolumetricLineStripBehavior_set_LineWidth_m9404E5945CCD4790AB5149BB2A19D71782D42BDB (void);
+// 0x0000008E System.Single VolumetricLines.VolumetricLineStripBehavior::get_LightSaberFactor()
+extern void VolumetricLineStripBehavior_get_LightSaberFactor_mA9EB68B885E25D539C2DDCE9F5BE9FE3079F614A (void);
+// 0x0000008F System.Void VolumetricLines.VolumetricLineStripBehavior::set_LightSaberFactor(System.Single)
+extern void VolumetricLineStripBehavior_set_LightSaberFactor_m972579480A38E0BBB47ED3392F6FD689B52A67D7 (void);
+// 0x00000090 UnityEngine.Vector3[] VolumetricLines.VolumetricLineStripBehavior::get_LineVertices()
+extern void VolumetricLineStripBehavior_get_LineVertices_m3B190DA27EEACF9F7FD68B69019600C3471313BD (void);
+// 0x00000091 System.Void VolumetricLines.VolumetricLineStripBehavior::CreateMaterial()
+extern void VolumetricLineStripBehavior_CreateMaterial_m11CC3003CBE35199569B2F4BC69AD2044005EFE9 (void);
+// 0x00000092 System.Void VolumetricLines.VolumetricLineStripBehavior::DestroyMaterial()
+extern void VolumetricLineStripBehavior_DestroyMaterial_m11E4948D5A74E9AD4C0F8304210E36DD9B65A99A (void);
+// 0x00000093 System.Single VolumetricLines.VolumetricLineStripBehavior::CalculateLineScale()
+extern void VolumetricLineStripBehavior_CalculateLineScale_m2BCB04DB9C225A37D389884258CE5470906E3B69 (void);
+// 0x00000094 System.Void VolumetricLines.VolumetricLineStripBehavior::UpdateLineScale()
+extern void VolumetricLineStripBehavior_UpdateLineScale_m1FECB651504A503014394A6CB66742371EF49325 (void);
+// 0x00000095 System.Void VolumetricLines.VolumetricLineStripBehavior::SetAllMaterialProperties()
+extern void VolumetricLineStripBehavior_SetAllMaterialProperties_mA3B39A3350746834FEFAFAC6538E3DA436E27F3E (void);
+// 0x00000096 UnityEngine.Bounds VolumetricLines.VolumetricLineStripBehavior::CalculateBounds()
+extern void VolumetricLineStripBehavior_CalculateBounds_m5C7AE4BD8723FA297FD1FBA68B160BA4B398EE8A (void);
+// 0x00000097 System.Void VolumetricLines.VolumetricLineStripBehavior::UpdateBounds()
+extern void VolumetricLineStripBehavior_UpdateBounds_m0D183AE1F6A75D5A55DD1B1908C7BA7C9673B031 (void);
+// 0x00000098 System.Void VolumetricLines.VolumetricLineStripBehavior::UpdateLineVertices(UnityEngine.Vector3[])
+extern void VolumetricLineStripBehavior_UpdateLineVertices_m7C0980A4049CBCF48E9FD5C3259D2446DDBFC758 (void);
+// 0x00000099 System.Void VolumetricLines.VolumetricLineStripBehavior::Start()
+extern void VolumetricLineStripBehavior_Start_m28976FB6DDBE0A9C5CE7475213FEA1330AFD73C0 (void);
+// 0x0000009A System.Void VolumetricLines.VolumetricLineStripBehavior::OnDestroy()
+extern void VolumetricLineStripBehavior_OnDestroy_m3B3A0E8796BFDA920C071B3B9E03C8EC06649455 (void);
+// 0x0000009B System.Void VolumetricLines.VolumetricLineStripBehavior::Update()
+extern void VolumetricLineStripBehavior_Update_m6051D2BA837D39E0F56994288878349F92F42BD1 (void);
+// 0x0000009C System.Void VolumetricLines.VolumetricLineStripBehavior::OnValidate()
+extern void VolumetricLineStripBehavior_OnValidate_m27FB5E078F47690994C8F4C57331AB5EF94A2F9F (void);
+// 0x0000009D System.Void VolumetricLines.VolumetricLineStripBehavior::OnDrawGizmos()
+extern void VolumetricLineStripBehavior_OnDrawGizmos_m76D41355578CE0E26B947B07F35BC1E34BC680E3 (void);
+// 0x0000009E System.Void VolumetricLines.VolumetricLineStripBehavior::.ctor()
+extern void VolumetricLineStripBehavior__ctor_m3549FBFD3CA2E85213851EFE434DC5CEC4A11E64 (void);
+// 0x0000009F System.Void VolumetricLines.VolumetricLineStripBehavior::.cctor()
+extern void VolumetricLineStripBehavior__cctor_m4689592992022971437DB9FF741D21DA09B65CC4 (void);
+// 0x000000A0 System.Void VolumetricLines.VolumetricLineVertexData::.cctor()
+extern void VolumetricLineVertexData__cctor_mC79F9ADDA7B0F15B013DDDE12EEB7CFCF7347054 (void);
+static Il2CppMethodPointer s_methodPointers[160] = 
+{
+	Death__ctor_mDC0979D381A51CB62F77EE5082E9DBFD6D9E86C1,
+	AboutButtonBehavior_Update_m1E88BAF067B8D47820AE80E46BDC69006EDE9014,
+	AboutButtonBehavior_OnPointerEnter_mA459B268194B5D2BF2258DAB0FC345918ACF5964,
+	AboutButtonBehavior_OnPointerExit_m1E3BB60A635463BC8811345BDC3BC1FE6A5A72C3,
+	AboutButtonBehavior__ctor_m90DD6B45148EF425523F3F4F679667FD23F8A972,
+	AnimationStateController_Start_m9909F040CA02623E569AE44DD347B3C46FE89850,
+	AnimationStateController_Update_m3B63902680B71A2D3BC220BEACDA18568537F5B3,
+	AnimationStateController_OnPointerEnter_mF3189F4AF73E38ED7F108925029D9F70701E0C6E,
+	AnimationStateController_OnPointerExit_mBE321E7F2D780FF0318115FC8458BA3CC186C069,
+	AnimationStateController_PlaySound_mF4C4D61FEF534FF4DF38149C3913639D8A40AF93,
+	AnimationStateController_StopSound_m9220FCA65750B76F6F61BE6C0C3CE20E2F29E9F1,
+	AnimationStateController_ChangeLayer_mC89C793DCE24BAD74565D78C17CDF7E0D67184D9,
+	AnimationStateController_DeleteDeadEnemy_mE254F9A7CE2CCACC8A650CF75E2DEDE148896F3D,
+	AnimationStateController_KillPlayer_m95BEF8062AA7704857F03FD72283397A31339D41,
+	AnimationStateController_deathScreen_mE4FD99DA3AC7CF93B39D2910CDC19B5A4A781B0B,
+	AnimationStateController__ctor_m5EF50D0AE710D0AF90552EB091B22E61CAEE5CB4,
+	CardboardStartup_Start_m3FCB9C6659C076D1D1142C9BDAE65996D09AB1B9,
+	CardboardStartup_Update_m9F3B419AD13A1BB0B8AAC2C46CC1415438B00186,
+	CardboardStartup__ctor_mF4E4BB92450A8F689ADF75C738D86EDD87F39202,
+	DoneButtonBehavior_Update_mF8ADF67D992934C521AD435D3341752536E78232,
+	DoneButtonBehavior_OnPointerEnter_m24AEA97E9D2E339ACDB3C82F46C7E0555E5649D9,
+	DoneButtonBehavior_OnPointerExit_m127B1699A4C775B7BD3968864CD7911650902BE5,
+	DoneButtonBehavior__ctor_m88892F21435EFDC80A18FEB305D7FCA87FAD2590,
+	GameManager_Start_m26461AEF27E44DB8FECCBC19D6C9E228B658BF8E,
+	GameManager_Update_mC9303BA7C3117BD861F49F8E36151CC52117E6C1,
+	GameManager__ctor_mE8666F6D0CA9C31E16B719F79780DC4B0245B64D,
+	GraphicsAPITextController_Start_m442479BE998FD6CF5608590F15AFB025321B1B10,
+	GraphicsAPITextController__ctor_mEC9E03A7AB86A1ED2028F16B936852549251EE2A,
+	MainMenu_Start_m3B552CE289B1D7E5343961C8461C484EA61DB621,
+	MainMenu_goToMenu_m91300E940C9CD7554A733A6F0A39EC0139EB9F31,
+	MainMenu__ctor_m4D77CEC8F91682A2D9492AE815F89B178BF9717D,
+	ObjectController_Start_mA8D89923C9057F3A7BC95D874FA47D34F2C4213B,
+	ObjectController_TeleportRandomly_m0609E15B3460753A6538D1D7A0371DDA30E1B305,
+	ObjectController_OnPointerEnter_mFA06A1FFFA451B1321791A1AB6A52615AD531773,
+	ObjectController_OnPointerExit_mAFAE51E71479EA14AE801E61082A3010BE90BC6C,
+	ObjectController_OnPointerClick_mFD2C131A2887535B624F8203A4F05B7DA6267369,
+	ObjectController_SetMaterial_mF4DF2222B39EC502F91056938CFFAA13AD4DE4C1,
+	ObjectController__ctor_m7F22B01157517689B2328035A4B87C2DAD3478F8,
+	ShieldBehavior_OnPointerEnter_mF3894FC51FAC1BBF31019FC0686262FCA82CAECF,
+	ShieldBehavior_Start_m4ECA4F2274DBFB7C1F2DD2167A0E42D1A4BCC848,
+	ShieldBehavior_Update_m8FADE2B41DCCF9A4A67BAE90DE10B1D9015D4841,
+	ShieldBehavior_Activate_mA93C64BBAEC300C1F539C29585F90746C5601511,
+	ShieldBehavior_Deactivate_m9FF772659FF50EC62F5791A100E6B1493C10689D,
+	ShieldBehavior_UpdateBatteryText_m9D47B6BEB791556F1B70DCA78E1B46F9202D9ED5,
+	ShieldBehavior__ctor_m8B96D418972280C8F4887C4470CB7AF2E56D0BF1,
+	ShootGun_Start_m27B4CB9430827783EC6B8F365533E08FA7D5BED7,
+	ShootGun_Update_mACC0C8D53D079B93EB179744450EC8725808E29B,
+	ShootGun_UpdateShootPoint_mF0C3890B0A865BC2DFAEA3461849476A6711F263,
+	ShootGun_Shoot_m1EF11EB9EDAE5C71673CE40E498E582342F38856,
+	ShootGun__ctor_m93BC5640562F248D0B63865694180EC6F34E0F45,
+	SpawnBehavior_Start_m227037561FC0410A950638B555E0B20D751964BA,
+	SpawnBehavior_Update_m0A12C9B96F656DD10F60B8F15DEC91A4EE92E031,
+	SpawnBehavior_SpawnEnemy_m4D73D702EFBC2C25004D1496B8A6963CED4B3AD0,
+	SpawnBehavior_GenerateSpawnTime_mA791926D2A2C22F56B8A60615B60FD0323D90766,
+	SpawnBehavior_WinScreen_m3D9367CCCF780FC5AC8F260991C9D3C02E7F984F,
+	SpawnBehavior__ctor_mB83E156AA2E75F92F485FB61E848762BA470E2EA,
+	StartButtonBehavior_Update_m8677BD9B2EA81ADA7DBDFDAA8E8AF32683936406,
+	StartButtonBehavior_OnPointerEnter_mD3A921B50E0109606368728536135ADC76197DD8,
+	StartButtonBehavior_OnPointerExit_m33589AC25B7089BB33B5799DE24324D3AE5766DF,
+	StartButtonBehavior__ctor_m57C359978EA2E4D33F050EAC85F23AAC7F7AF348,
+	VrModeController_get__isScreenTouched_m72936928FB8C5DF4268F76BF164F02D2B10F5646,
+	VrModeController_get__isVrModeEnabled_mF66A05F1018FEDB94A7010E2E3F714B4C91F5F96,
+	VrModeController_Start_mE853D09E112F95B6725D81945FBF80BAC5E80F59,
+	VrModeController_Update_mEECA330B7CB845AFD609A6367AF8FB6A150FD210,
+	VrModeController_EnterVR_m6F15FBEF8EC065C24764BA6CD70573822018013F,
+	VrModeController_ExitVR_m3559F6F2FBAE5D19998A9B51D0B22A765D451BFA,
+	VrModeController_StartXR_m3E9FF326A5B4CB0E1EB19F1321EE5C4B3F90C9BC,
+	VrModeController_StopXR_m9464911C38618B50214F493450600A39E7EFA11F,
+	VrModeController__ctor_mA3E66288FFE87992A48CB7FA23AE0531311DFEA8,
+	U3CStartXRU3Ed__10__ctor_mF343AAB11ACC5EB4DC599EE2CB804CE31A56B9D9,
+	U3CStartXRU3Ed__10_System_IDisposable_Dispose_m3564EBC2B3A1FFF341D8064161C5E0609BD6A06F,
+	U3CStartXRU3Ed__10_MoveNext_m83FA5ABF40268E8BBFAC61A360F97F648EC841D0,
+	U3CStartXRU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m42D60279BF2FBE6A7B98DB1CAC2055C01BD24B58,
+	U3CStartXRU3Ed__10_System_Collections_IEnumerator_Reset_mB9FC26327447A2E4DA95BCADE6C7C48B25994317,
+	U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mF8108A377FD1D678FB408319943C30A6AECBE607,
+	CannonBehavior_Start_m2204E9E3EB4D77B349EBD2A0AE04470853AFC11B,
+	CannonBehavior_Update_m80AB4F83E1AA4DD307BA0300BE9B85695579C084,
+	CannonBehavior_OnGUI_m48A3246C4FB76BF44BD0AD4E793A1157996185E5,
+	CannonBehavior__ctor_m0B74DD0A2B89CEEC6A46A305F98B7F45343A8DEF,
+	CreateSinShapedLineStrip_Start_mDCF09509CA42700C9992C8CEF68B02D07D6A9C3B,
+	CreateSinShapedLineStrip_OnDrawGizmos_m39FC926449229B9332645208978AF684EB3147FB,
+	CreateSinShapedLineStrip__ctor_m0F174028C18272CB842357722900EB594F45F48E,
+	ShotBehavior_Start_mA5A3636DD79DF250F211A7CF2E2E18EEB8F10800,
+	ShotBehavior_Update_m006A105858FFF036081AB1C18036CAA25C7DB9EB,
+	ShotBehavior__ctor_m0D1B8815E738E39BF9EAAA1E663EA66EC1D530E6,
+	VolumetricMultiLineBehavior_get_TemplateMaterial_mCE2E9706781E43D807FA3EA51F26D4ABDC355EDF,
+	VolumetricMultiLineBehavior_set_TemplateMaterial_mF34789D78002CF5328992CF7012D423C837E2547,
+	VolumetricMultiLineBehavior_get_DoNotOverwriteTemplateMaterialProperties_m40C652E029509C4240923BBFEC62670CDB4F5A24,
+	VolumetricMultiLineBehavior_set_DoNotOverwriteTemplateMaterialProperties_m20B0292FB15B39DCC1977E76FA087019B02DD8E7,
+	VolumetricMultiLineBehavior_get_LineColor_m41CAD291507D48955F8099DC6D5BF7CBD30B84BB,
+	VolumetricMultiLineBehavior_set_LineColor_m79ED8CD513F3B78D100DC966B4ACEBA4904E5BDE,
+	VolumetricMultiLineBehavior_get_LineWidth_m50404E7D75270144E5BDC69327477A2F89FDB8BB,
+	VolumetricMultiLineBehavior_set_LineWidth_m2595C344A0A1879E612635946C713DE698144119,
+	VolumetricMultiLineBehavior_get_LightSaberFactor_m06D68C8C738ABF6891F07598D85347F5CF97C68D,
+	VolumetricMultiLineBehavior_set_LightSaberFactor_m09E568A488DBA4F4EA5FE733DF02148C75EBD8AD,
+	VolumetricMultiLineBehavior_CreateAllVolumetricLines_mC00AC7206090A65FAB5D85349A5E2141F122E807,
+	VolumetricMultiLineBehavior_DestroyAllVolumetricLines_mE41279659BF4E4B61CE8541324B3CBB0E0FA7FBF,
+	VolumetricMultiLineBehavior_UpdateLineVertices_m622B6E2EA677A9D69620FF4F0448277BD6080285,
+	VolumetricMultiLineBehavior_SetAllMaterialProperties_m879EA386ECAA82EF8358B2365893BF930F34755B,
+	VolumetricMultiLineBehavior_Start_mBCC7EEB71AFE56EE2772C4A76D0AC53D348B8E88,
+	VolumetricMultiLineBehavior_OnDestroy_m103668585FF3D8D8F3C9C4787564E65182E9621D,
+	VolumetricMultiLineBehavior_OnValidate_m25F652CDDE5E82CB8BBC47047EF8DB901BC73ADD,
+	VolumetricMultiLineBehavior_OnDrawGizmos_m1DDACBFF372B5665133DF2D722BBFD8A47FA17DC,
+	VolumetricMultiLineBehavior__ctor_m3574C5302CE3BC04322BA398C4BE37007481CF65,
+	VolumetricLineBehavior_get_TemplateMaterial_m485D1AFA19EA8987D7F8A4F65EB37AEE10375660,
+	VolumetricLineBehavior_set_TemplateMaterial_m48D09A853D9928B29754FF55E6E9D3AEC9E40C80,
+	VolumetricLineBehavior_get_DoNotOverwriteTemplateMaterialProperties_m2989072FABC7BED69AE8B3AEFBBD7AC34DFD13E2,
+	VolumetricLineBehavior_set_DoNotOverwriteTemplateMaterialProperties_m52108A43A4F2E8B2ADCAF40F8207B66D5BFCB210,
+	VolumetricLineBehavior_get_LineColor_mD4DF0B39783B8D33E684FA28A71F57AEF02D231B,
+	VolumetricLineBehavior_set_LineColor_m8C43E236650A68DB06BA617732C488F32E77350B,
+	VolumetricLineBehavior_get_LineWidth_m65792B908D2F692C33D5190817F681625CF875F5,
+	VolumetricLineBehavior_set_LineWidth_m3596F7A333CB638A0DB7B22D340F64AAF6709E4B,
+	VolumetricLineBehavior_get_LightSaberFactor_m54D23DA211B31D7FCCBF63346C4C1D7BED41670E,
+	VolumetricLineBehavior_set_LightSaberFactor_m647CDC0C3F205E37719A441BCE7B0797FA6D5E80,
+	VolumetricLineBehavior_get_StartPos_m1E8915A7B88C0F177EEF18BACEBCB54C20A1F328,
+	VolumetricLineBehavior_set_StartPos_mA94E3149BE9AB33DFC9654EC81300DFBD9F6F814,
+	VolumetricLineBehavior_get_EndPos_m0E5E6C8A3178D15ECD86A0056A4F827A567D2B0E,
+	VolumetricLineBehavior_set_EndPos_mF4E603044B604303AA236D51A25F4A03EC6C76C4,
+	VolumetricLineBehavior_CreateMaterial_m3740559FFD248C89D732092D9501201FC6AC5D51,
+	VolumetricLineBehavior_DestroyMaterial_m10AB9E38C9A88125D3A7FFFF28C54E676B7BB231,
+	VolumetricLineBehavior_CalculateLineScale_m8584665B9104DD3E9342876BC5F770B799680255,
+	VolumetricLineBehavior_UpdateLineScale_mF448795BC508FE125B6F100CF32928D9CD644BD4,
+	VolumetricLineBehavior_SetAllMaterialProperties_mF14C3A362B67F0B9B6FE665F050235664AF4DA4A,
+	VolumetricLineBehavior_CalculateBounds_m2FE8179663ADF0DA443801CF8A83934A0C2757FF,
+	VolumetricLineBehavior_UpdateBounds_m1230CBA9F88056122639F9D693A13BA471C71B2A,
+	VolumetricLineBehavior_SetStartAndEndPoints_mEF6385054F96D0605BEC540FDC88BC04B8B7FA9C,
+	VolumetricLineBehavior_Start_m795477C8AF6BD075BA5A448E653E8EF8528A7692,
+	VolumetricLineBehavior_OnDestroy_mC41D4393D9BE15453E5A17FFA123473CF675DFC0,
+	VolumetricLineBehavior_Update_mA585CE476BE9ABC5684832720F856D7E5D3D1E55,
+	VolumetricLineBehavior_OnValidate_m3BD4CF87C7031438BBCC2EA7BD0A28B735533269,
+	VolumetricLineBehavior_OnDrawGizmos_mCE4D67ABF21CE2FADF69C89EA84A0AA6731BE4A5,
+	VolumetricLineBehavior__ctor_m8682F91D32F5FFD72426B21C2008C786401CF033,
+	VolumetricLineBehavior__cctor_mE3894EC72E783D45D8D37263D08E448BD9BA3D43,
+	VolumetricLineStripBehavior_get_TemplateMaterial_mDABF0501B8012D70E4DC3AD940CED20B09FD98FA,
+	VolumetricLineStripBehavior_set_TemplateMaterial_m81728C6D3A7E9EB58C0ED140DE23910E99851583,
+	VolumetricLineStripBehavior_get_DoNotOverwriteTemplateMaterialProperties_mB1D4D69804B88C4599B5F563629310B274D6A381,
+	VolumetricLineStripBehavior_set_DoNotOverwriteTemplateMaterialProperties_mF5D7D015E27AD055A414271028282E68F14A0F10,
+	VolumetricLineStripBehavior_get_LineColor_m90B087B66F2E6FCEA93F2CB83C98CE14696102BA,
+	VolumetricLineStripBehavior_set_LineColor_m7DEB94E1554A56247A57A6A4F3D288F2A216A1FA,
+	VolumetricLineStripBehavior_get_LineWidth_mDE45AB61E632E0981067B4CE8A6030C077C1B295,
+	VolumetricLineStripBehavior_set_LineWidth_m9404E5945CCD4790AB5149BB2A19D71782D42BDB,
+	VolumetricLineStripBehavior_get_LightSaberFactor_mA9EB68B885E25D539C2DDCE9F5BE9FE3079F614A,
+	VolumetricLineStripBehavior_set_LightSaberFactor_m972579480A38E0BBB47ED3392F6FD689B52A67D7,
+	VolumetricLineStripBehavior_get_LineVertices_m3B190DA27EEACF9F7FD68B69019600C3471313BD,
+	VolumetricLineStripBehavior_CreateMaterial_m11CC3003CBE35199569B2F4BC69AD2044005EFE9,
+	VolumetricLineStripBehavior_DestroyMaterial_m11E4948D5A74E9AD4C0F8304210E36DD9B65A99A,
+	VolumetricLineStripBehavior_CalculateLineScale_m2BCB04DB9C225A37D389884258CE5470906E3B69,
+	VolumetricLineStripBehavior_UpdateLineScale_m1FECB651504A503014394A6CB66742371EF49325,
+	VolumetricLineStripBehavior_SetAllMaterialProperties_mA3B39A3350746834FEFAFAC6538E3DA436E27F3E,
+	VolumetricLineStripBehavior_CalculateBounds_m5C7AE4BD8723FA297FD1FBA68B160BA4B398EE8A,
+	VolumetricLineStripBehavior_UpdateBounds_m0D183AE1F6A75D5A55DD1B1908C7BA7C9673B031,
+	VolumetricLineStripBehavior_UpdateLineVertices_m7C0980A4049CBCF48E9FD5C3259D2446DDBFC758,
+	VolumetricLineStripBehavior_Start_m28976FB6DDBE0A9C5CE7475213FEA1330AFD73C0,
+	VolumetricLineStripBehavior_OnDestroy_m3B3A0E8796BFDA920C071B3B9E03C8EC06649455,
+	VolumetricLineStripBehavior_Update_m6051D2BA837D39E0F56994288878349F92F42BD1,
+	VolumetricLineStripBehavior_OnValidate_m27FB5E078F47690994C8F4C57331AB5EF94A2F9F,
+	VolumetricLineStripBehavior_OnDrawGizmos_m76D41355578CE0E26B947B07F35BC1E34BC680E3,
+	VolumetricLineStripBehavior__ctor_m3549FBFD3CA2E85213851EFE434DC5CEC4A11E64,
+	VolumetricLineStripBehavior__cctor_m4689592992022971437DB9FF741D21DA09B65CC4,
+	VolumetricLineVertexData__cctor_mC79F9ADDA7B0F15B013DDDE12EEB7CFCF7347054,
+};
+static const int32_t s_InvokerIndices[160] = 
+{
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	662,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1004,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1152,
+	1152,
+	1217,
+	1217,
+	1217,
+	1217,
+	1181,
+	1217,
+	1217,
+	1027,
+	1217,
+	1152,
+	1181,
+	1217,
+	1181,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1181,
+	1037,
+	1152,
+	1004,
+	1155,
+	1008,
+	1204,
+	1056,
+	1204,
+	1056,
+	1217,
+	1217,
+	1037,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1181,
+	1037,
+	1152,
+	1004,
+	1155,
+	1008,
+	1204,
+	1056,
+	1204,
+	1056,
+	1215,
+	1068,
+	1215,
+	1068,
+	1217,
+	1217,
+	1204,
+	1217,
+	1217,
+	1151,
+	1217,
+	690,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	2182,
+	1181,
+	1037,
+	1152,
+	1004,
+	1155,
+	1008,
+	1204,
+	1056,
+	1204,
+	1056,
+	1181,
+	1217,
+	1217,
+	1204,
+	1217,
+	1217,
+	1151,
+	1217,
+	1037,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	1217,
+	2182,
+	2182,
+};
+extern const CustomAttributesCacheGenerator g_AssemblyU2DCSharp_AttributeGenerators[];
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	160,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	g_AssemblyU2DCSharp_AttributeGenerators,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};

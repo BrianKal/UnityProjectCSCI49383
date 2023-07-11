@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{32C3BDE6-E125-3128-82C1-25D0441455A3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/Google Cardboard XR Plugin for Unity/1.21.0/Hello Cardboard/Scripts/SpawnBehavior.cs">
+    <Files>
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.21.0/Hello Cardboard/Scripts/StartButtonBehavior.cs" Line="4" Column="1" />
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.21.0/Hello Cardboard/Scripts/MainMenu.cs" Line="11" Column="32" />
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.21.0/Hello Cardboard/Scripts/AnimationStateController.cs" Line="4" Column="1" />
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.21.0/Hello Cardboard/Scripts/SpawnBehavior.cs" Line="63" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Samples" expanded="True">
+                <Node name="Google Cardboard XR Plugin for Unity" expanded="True">
+                  <Node name="1.21.0" expanded="True">
+                    <Node name="Hello Cardboard" expanded="True">
+                      <Node name="Scripts" expanded="True">
+                        <Node name="SpawnBehavior.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a4dac92c-4fe7-4d88-93f7-4cd0daeab82d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

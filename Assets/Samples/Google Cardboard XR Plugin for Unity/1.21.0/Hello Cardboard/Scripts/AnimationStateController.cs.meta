@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e2b2fece832b451f98ec44e13e1d7d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - teleportSound: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - enemyShootingSound: {instanceID: 0}
+  - playerDeathSound: {instanceID: 0}
+  - shield: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
